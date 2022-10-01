@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4NSHUL
-- 👀 I’m interested in Backend web dev... python ... DSA... 
+- 👀 I’m interested in Fullstack web dev... DSA... 
 - 🌱 I’m currently learning Backend web dev
-- 💞️ I’m looking to collaborate on python rest api's
+- 💞️ I’m looking to collaborate on Fullstack Dev
 - 📫 How to reach me anshul.bisen28@gmail.com
 
 <!---
